@@ -287,7 +287,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>npci=0x2000 dart=0 -no_compat_check -v nv_disable=1 -liludbgall liludump=60 -igfxfbdump kext-dev-mode=1 -igfxnohdmi -cdfon rootless=0</string>
+		<string>npci=0x2000 dart=0 -no_compat_check nv_disable=1 -liludbgall liludump=60 -igfxfbdump kext-dev-mode=1 -igfxnohdmi -cdfon rootless=0</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>Debug</key>
@@ -305,7 +305,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>0</integer>
+		<integer>3</integer>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -481,7 +481,7 @@
 		<key>ShowOptimus</key>
 		<true/>
 		<key>Theme</key>
-		<string>OlarilaAnimation</string>
+		<string>Neon256</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>

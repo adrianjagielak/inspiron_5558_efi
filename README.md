@@ -7,4 +7,4 @@ Hackintosh EFI for Dell Inspiron 5558 macOS 10.15.5
 =============
 
 What works:
-- Everything exept screen brightness and bugged audio yet (and also maybe sd card reader, not tested)
+- Everything exept screen brightness which is fixed at 100% (?) and bugged audio (and also maybe sd card reader, not tested)
